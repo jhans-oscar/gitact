@@ -34,4 +34,4 @@ GitAct is a lightweight CLI tool that highlights the latest public GitHub events
 
 ## Inspiration
 
-This project was inspired by the task tracker idea on Roadmap.sh.
+This project was inspired by the task tracker idea on [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
