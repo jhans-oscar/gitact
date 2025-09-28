@@ -1,4 +1,5 @@
 # GitAct: GitHub Activity Feed
+![App Demo](demo.gif)
 
 ## Overview
 GitAct is a lightweight CLI tool that highlights the latest public GitHub events for any user, wrapping each entry in a colorful, easy-to-scan layout.
@@ -30,3 +31,7 @@ GitAct is a lightweight CLI tool that highlights the latest public GitHub events
 ## Notes
 - GitHub’s unauthenticated API allows ~60 requests per hour per IP; add authentication if you need higher limits.
 - Empty histories simply report “No recent activity,” so the tool is safe to run against inactive accounts.
+
+## Inspiration
+
+This project was inspired by the task tracker idea on Roadmap.sh.
